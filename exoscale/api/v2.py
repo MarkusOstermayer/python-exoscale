@@ -183,6 +183,7 @@ _type_translations = {
     "string": "str",
     "integer": "int",
     "object": "dict",
+    "number": "float",
     "array": "list",
     "boolean": "bool",
 }
